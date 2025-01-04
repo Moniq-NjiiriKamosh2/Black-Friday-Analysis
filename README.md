@@ -22,3 +22,6 @@ Open the **maven_ski_shop_analysis.ipynb** file to view more code
 ## Credits
 - [Monica Njiiri](https://monicahnjiiri.com)
 - [Email Me](mailto:info@monicahnjiiri.com)
+
+## License
+You are free to use it as long as you credit the author.
